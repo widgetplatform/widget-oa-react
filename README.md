@@ -2,7 +2,7 @@
 
 A React component for easily adding a Widget for OpenAI Assistants from WidgetPlatform.com to your website.
 
-See github.com/widgetplatform/widget-oa for source code of widget and widgetplatform.com for more information about this.
+See [github.com/widgetplatform/widget-oa](github.com/widgetplatform/widget-oa) for source code of widget and [widgetplatform.com](widgetplatform.com) for more information about this.
 
 ## Features
 
