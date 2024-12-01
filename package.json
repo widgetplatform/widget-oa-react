@@ -1,0 +1,33 @@
+{
+  "name": "widget-oa-react",
+  "version": "1.0.0",
+  "description": "React Widget OA component",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "react",
+    "widget",
+    "widget-oa",
+    "chat"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "rollup": "^2.79.1",
+    "rollup-plugin-typescript2": "^0.31.2",
+    "typescript": "^4.9.5",
+    "@rollup/plugin-commonjs": "^22.0.0",
+    "@rollup/plugin-node-resolve": "^13.3.0"
+  }
+} 
