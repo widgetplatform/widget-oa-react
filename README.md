@@ -34,7 +34,7 @@ function App() {
   return (
     <div>
       <CustomerChatWidget
-        id="2c8159ef-6cab-44c2-97eb-44ff87d42387"
+        id="2c8159ef-aaaa-bbbb-cccc-44ff87d42387"
         buttonPosition="bottom-right"
         buttonColor="#ffffff"
         buttonBackgroundColor="#3B82F6"
